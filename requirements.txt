@@ -1,0 +1,13 @@
+numpy
+pandas
+pandas_ta
+tensorflow
+keras
+scikit-learn
+plotly
+statsmodels
+yfinance
+python-dateutil
+python-dotenv
+finnhub-python
+pathlib
